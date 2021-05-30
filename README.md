@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### MarkDown Test [^test]
+### MarkDown Test [^top]
 dddd
 
-[^test]:test
+[^top]: 각주 테스트
 
 <!---
 byunghakjang1230/byunghakjang1230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
